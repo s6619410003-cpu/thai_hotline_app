@@ -93,7 +93,7 @@ class _AboutUIState extends State<AboutUI> {
               const Text('คณะ: คณะวิศวกรรมศาสตร์',
                   style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
 
-              const SizedBox(height: 40),
+              const SizedBox(height: 30),
             ],
           ),
         ),
